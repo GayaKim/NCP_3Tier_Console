@@ -1,15 +1,16 @@
 # NCP_3Tier_Console
-###Setting
+<br/>
+
+## 1️⃣Setting
 <img width="310" alt="NCP표" src="https://user-images.githubusercontent.com/102592847/213985749-85b9d1d2-0b9a-41b6-a868-a2d86f46b1c0.png">
+<br/><br/>
 
-###Architecture
+## 2️⃣Architecture
 <img src="https://user-images.githubusercontent.com/102592847/213979748-5245bc93-05aa-48bd-809d-92f9dd3c63f7.png" width="310" height="410"/>
+<br/><br/>
 
-![NCP 3-Tier 구축_1](https://user-images.githubusercontent.com/102592847/213986999-74fd4a35-1053-45d9-ba92-89ac6b43ecfb.png)
-![NCP 3-Tier 구축_2](https://user-images.githubusercontent.com/102592847/213987003-e40baf45-5314-406d-85f5-f0fe9da88614.png)
-![NCP 3-Tier 구축_3](https://user-images.githubusercontent.com/102592847/213987006-b1edf5ad-20f0-4cef-841f-60beffc007af.png)
-![NCP 3-Tier 구축_4](https://user-images.githubusercontent.com/102592847/213987010-27b59ae6-97e1-49a0-9eb0-70e5ba53855d.png)
-![NCP 3-Tier 구축_5](https://user-images.githubusercontent.com/102592847/213987013-afdc9709-9961-463d-a078-1d1dac88da36.png)
+## 3️⃣Presentation
+
 ![NCP 3-Tier 구축_6](https://user-images.githubusercontent.com/102592847/213987017-15208594-19b8-4804-92b9-18485bc4b2e2.png)
 ![NCP 3-Tier 구축_7](https://user-images.githubusercontent.com/102592847/213987020-1a184c9e-e745-4d6a-bea8-11c356ed498b.png)
 ![NCP 3-Tier 구축_8](https://user-images.githubusercontent.com/102592847/213987022-7de80dab-596f-494d-937e-87f99366546c.png)
