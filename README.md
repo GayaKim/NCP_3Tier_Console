@@ -1,7 +1,7 @@
 # NCP_3Tier_Console
 <br/>
 
-## 1️⃣Setting
+## 1️⃣Project Summary
 <img width="310" alt="NCP표" src="https://user-images.githubusercontent.com/102592847/213985749-85b9d1d2-0b9a-41b6-a868-a2d86f46b1c0.png">
 <br/><br/>
 
