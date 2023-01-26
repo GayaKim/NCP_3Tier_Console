@@ -2,11 +2,11 @@
 <br/>
 
 ## 1️⃣Project Summary
-<img width="310" alt="NCP표" src="https://user-images.githubusercontent.com/102592847/213985749-85b9d1d2-0b9a-41b6-a868-a2d86f46b1c0.png">
+<img width="500" alt="NCP표" src="https://user-images.githubusercontent.com/102592847/213985749-85b9d1d2-0b9a-41b6-a868-a2d86f46b1c0.png">
 <br/><br/>
 
 ## 2️⃣Architecture
-<img src="https://user-images.githubusercontent.com/102592847/213979748-5245bc93-05aa-48bd-809d-92f9dd3c63f7.png" width="310" height="410"/>
+<img src="https://user-images.githubusercontent.com/102592847/213979748-5245bc93-05aa-48bd-809d-92f9dd3c63f7.png" width="500"/>
 <br/><br/>
 
 ## 3️⃣Presentation
